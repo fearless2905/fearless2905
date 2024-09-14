@@ -4,7 +4,7 @@ Perkenalkan nama saya **Alif Bayu**.<br>
  
 Saya seorang **Cloud Computing Cohort** di Bangkit Academy 2024 led by Google, Tokopedia, Gojek, & Traveloka.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/alif-bayu-ammarizky-033853290)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alif-bayu-ammarizky-033853290)ku ya.
  
 ### Github Statistic
 <p align="left">
